@@ -222,6 +222,14 @@ These machines were included in the dashboard's priority analysis.
 
 ---
 
+## Live Dashboard
+
+🚀 **[Launch the Interactive Manufacturing Operations Dashboard](https://manufacturing-operations-analytics-4y9kzrb68mqksspkvwjfeu.streamlit.app/)**
+
+Explore machine OEE, downtime, quality, cycle-time variance, maintenance activity, and operational priorities.
+
+---
+
 ## Dashboard
 
 The project includes an interactive Streamlit dashboard providing:
