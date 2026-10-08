@@ -1,0 +1,13 @@
+machine_id,line_id,machine_type,installation_year
+M-001,LINE-01,CNC,2022
+M-002,LINE-01,CNC,2021
+M-003,LINE-01,CNC,2020
+M-004,LINE-02,Press,2023
+M-005,LINE-02,Press,2021
+M-006,LINE-02,Press,2020
+M-007,LINE-03,Assembly,2022
+M-008,LINE-03,Assembly,2022
+M-009,LINE-03,Assembly,2019
+M-010,LINE-04,Packaging,2023
+M-011,LINE-04,Packaging,2021
+M-012,LINE-04,Packaging,2020

@@ -1,0 +1,9 @@
+downtime_reason,downtime_minutes
+Mechanical Failure,106270.2
+Electrical Failure,54149.8
+Material Shortage,33759.7
+Changeover,26586.7
+Quality Hold,14582.8
+Operator Delay,11645.2
+Preventive Maintenance,11228.0
+Cleaning,9860.3

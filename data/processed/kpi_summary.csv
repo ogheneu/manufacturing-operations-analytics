@@ -1,0 +1,13 @@
+KPI,Value
+Total Units Produced,11053346.0
+Good Units,10779635.0
+Defective Units,273711.0
+Defect Rate (%),2.4762727955860604
+Total Downtime (minutes),268082.69999999995
+Average Ideal Cycle Time (seconds),36.78644444444444
+Average Actual Cycle Time (seconds),43.516081666666665
+Average Cycle Time Variance (seconds),6.729637222222223
+Availability (%),96.89719097222222
+Performance (%),80.94786494411544
+Quality (%),97.52372720441393
+OEE (%),76.4939128200017
