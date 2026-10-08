@@ -242,6 +242,25 @@ The project includes an interactive Streamlit dashboard providing:
 - Machine-level performance filtering
 - Automated key operational findings
 
+
+### Dashboard Preview
+
+#### Executive Dashboard
+
+![Manufacturing Operations Dashboard](images/dashboard_overview.png)
+
+#### Operational Analysis
+
+![Manufacturing Operational Analysis](images/dashboard_analysis_1.png)
+![Manufacturing Operational Analysis](images/dashboard_analysis_2.png)
+![Manufacturing Operational Analysis](images/dashboard_analysis_3.png)
+
+#### Machine-Level Analysis
+
+![Machine Performance Analysis](images/machine_analysis.png)
+
+
+
 To launch the dashboard locally:
 
 ```bash
